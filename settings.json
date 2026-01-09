@@ -1,5 +1,5 @@
 {
-  "editor.fontSize": 26,
+  "editor.fontSize": 16,
   "files.autoSave": "off",
   "editor.tabSize": 1,
   "editor.wordWrap": "on",
@@ -45,7 +45,7 @@
   "git.enableSmartCommit": true,
   "markdown.preview.fontSize": 16,
   "editor.guides.bracketPairs": true,
-  "window.zoomLevel": 2,
+  "window.zoomLevel": 0,
   "workbench.iconTheme": "vscode-icons",
   "vsicons.presets.foldersAllDefaultIcon": true
 }
